@@ -6,7 +6,6 @@ import Socials from "./Socials";
 
 const diff = [
   [" ", "ganesh.js"],
-  ["-", 'role: "MERN mentor"'],
   ["+", 'role: "MERN stack developer"'],
   [
     "+",

@@ -21,7 +21,6 @@ const Socials = () => {
     ["GitHub", `https://github.com/${profile.github}`, "github"],
     ["Email", `mailto:${profile.email}`, "mail"],
     ["Upwork", profile.upwork, "briefcase"],
-    ["Fiverr", profile.fiverr, "briefcase"],
   ];
   return (
     <ul className="socials">

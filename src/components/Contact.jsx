@@ -41,9 +41,6 @@ const Contact = () => {
         </p>
         <p className="muted">
           {profile.email}
-          <br />
-          {profile.phone}
-          <br />
           {profile.location}
         </p>
         <Socials />

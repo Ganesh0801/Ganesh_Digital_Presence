@@ -3,7 +3,6 @@ const VITE_PHONE = import.meta.env.VITE_PHONE;
 const VITE_GITHUB = import.meta.env.VITE_GITHUB;
 const VITE_LINKEDIN = import.meta.env.VITE_LINKEDIN;
 const VITE_UPWORK = import.meta.env.VITE_UPWORK;
-const VITE_FIVERR = import.meta.env.VITE_FIVERR;
 const VITE_RESUME = import.meta.env.VITE_RESUME;
 
 const profile = {
@@ -14,7 +13,6 @@ const profile = {
   github: VITE_GITHUB,
   linkedin: VITE_LINKEDIN,
   upwork: VITE_UPWORK,
-  fiverr: VITE_FIVERR,
   resume: VITE_RESUME,
 }
 
