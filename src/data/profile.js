@@ -30,7 +30,7 @@ const projects = [
 const experience = [
   { role: 'MERN Stack Mentor', org: 'Kalvium · Chennai', when: 'Oct 2026 – Present',
     text: 'Teaching React, Node, Express and MongoDB through real projects and code reviews. Explaining the stack every day keeps my own fundamentals sharp.' },
-  { role: 'Full Stack Developer Intern', org: 'Eltys LLC · Remote', when: 'Oct 2025 – Apr 2026',
+  { role: 'Full Stack Developer', org: 'Elyts LLC · Remote', when: 'Oct 2025 – Sep 2026',
     text: 'Worked on Namio, a currency exchange platform. Built FastAPI and Node.js APIs and React dashboard modules, and turned Figma designs into production UI.' },
   { role: 'React.js Developer Intern', org: 'Vector Stack · Bangalore', when: 'Mar 2025 – Jun 2025',
     text: 'Built reusable components, managed state with Context and Redux Toolkit, and shipped in Agile sprints.' },
