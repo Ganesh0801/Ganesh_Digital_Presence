@@ -1,19 +1,19 @@
-const VITE_EMAIL = import.meta.env.VITE_EMAIL;
-const VITE_PHONE = import.meta.env.VITE_PHONE;
-const VITE_GITHUB = import.meta.env.VITE_GITHUB;
-const VITE_LINKEDIN = import.meta.env.VITE_LINKEDIN;
-const VITE_UPWORK = import.meta.env.VITE_UPWORK;
-const VITE_RESUME = import.meta.env.VITE_RESUME;
+const EMAIL = import.meta.env.EMAIL;
+const PHONE = import.meta.env.PHONE;
+const GITHUB = import.meta.env.GITHUB;
+const LINKEDIN = import.meta.env.LINKEDIN;
+const UPWORK = import.meta.env.UPWORK;
+const RESUME = import.meta.env.RESUME;
 
 const profile = {
   name: 'Ganesh B',
-  email: VITE_EMAIL,
-  phone: VITE_PHONE,
+  email: EMAIL,
+  phone: PHONE,
   location: 'Chennai, Tamil Nadu',
-  github: VITE_GITHUB,
-  linkedin: VITE_LINKEDIN,
-  upwork: VITE_UPWORK,
-  resume: VITE_RESUME,
+  github: GITHUB,
+  linkedin: LINKEDIN,
+  upwork: UPWORK,
+  resume: RESUME,
 }
 
 const projects = [
